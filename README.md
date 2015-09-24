@@ -1,6 +1,6 @@
 # [Hugo's Academic Homepage](http://cs.rpi.edu/~cheny39)
 
-## Acknowledge
+## Acknowledgement
 This blog is currently used as my academic homepage and is based on [Clean Blog]
 (http://startbootstrap.com/template-overviews/clean-blog/) which is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). Give my best thanks to the creator.
 
