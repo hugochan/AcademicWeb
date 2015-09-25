@@ -1,0 +1,38 @@
+<tiltviewergallery>
+	<photos>
+		<photo imageurl="gallery/1.jpg">
+			<title>Taylor Night</title>
+			<description>A night scene in Taylor, MI, USA.</description>
+		</photo>
+		<photo imageurl="gallery/2.jpg">
+			<title>Sunrise</title>
+			<description>Sunrise in Ningbo, China.</description>
+		</photo>
+		<photo imageurl="gallery/3.jpg" >
+			<title>Fireworks</title>
+		<description>Fireworks in Ningbo, China.</description>
+		</photo>
+		<photo imageurl="gallery/4.jpg">
+			<title>Library</title>
+			<description>The library in UESTC where I ever dreamed a dream.</description>
+		</photo>
+		<photo imageurl="gallery/5.jpg">
+			<title>Erhai</title>
+			<description>The wonderful Erhai which is located in Dali, China.</description>
+		</photo>
+		<photo imageurl="gallery/6.jpg">
+			<title>Erhai</title>
+		</photo>
+		<photo imageurl="gallery/7.jpg">
+			<title>Mountain</title>
+			<description>The mountain near Erhai.</description>
+		</photo>
+		<photo imageurl="gallery/8.jpg">
+			<title>Lizard</title>
+			<description>I got it in Tengchong, China.</description>
+		</photo>
+		<photo imageurl="gallery/9.jpg" showFlipButton="false">
+			<title>Image 9</title>
+		</photo>
+	</photos>
+</tiltviewergallery>
