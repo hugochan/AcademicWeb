@@ -1,4 +1,4 @@
-# [Hugo's Academic Homepage](http://cs.rpi.edu/~cheny39)
+# [Hugo's Academic Homepage](http://academic.hugochan.net)
 
 ## Acknowledgement
 This blog is currently used as my academic homepage and is based on [Clean Blog]
